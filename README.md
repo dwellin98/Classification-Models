@@ -17,3 +17,6 @@ Feature correlation
 
 
 ### Results
+
+WHy are we doing this?
+How could this be applied to a business scenario
