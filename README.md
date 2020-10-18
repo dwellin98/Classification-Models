@@ -11,5 +11,9 @@ Here I will store the Machine Learning models I have learnt to discover interest
 
 ### Modeling and Evaluation
 
+Feature importance
+
+Feature correlation
+
 
 ### Results
