@@ -11,7 +11,7 @@ As a fan of Pokemon I always found it difficult to know what Pokemon are truly t
 
 ### Data description
 Name
-The name of the Pokemon. Data Type: String
+* The name of the Pokemon. Data Type: String
 Type 1
 The type of Pokemon, all Pokemon have a type 1 category. This feature helps describe the Pokemon's attributes.
 Type 2
