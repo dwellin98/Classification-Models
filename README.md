@@ -1,10 +1,9 @@
 # Machine Learning-Models
 <table>
   <tr>
-    <td valign="top"><img src="https://github.com/dwellin98/MachineLearning-Models/Images/Pikachu.jpg width=100% height=45%>
+    <td valign="top"><img src="https://github.com/dwellin98/MachineLearning-Models/blob/master/Images/Pikachu.jpg" width=100% height=45%>
   </tr>
  </table>
-Images/Pikachu.jpg
 
 Here I will store the Machine Learning models I have learnt to discover interesting insights from data
 ### ML Pokemon Project 
