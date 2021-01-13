@@ -17,16 +17,19 @@ Name
 Type 1
 
 * The type of Pokemon, all Pokemon have a type 1 category. This feature helps describe the Pokemon's attributes.
+
 Type 2
 
 * The type 2 is for Pokemon who are of two types. Not all Pokemon are of two types however this provides a further understanding of the Pokemons attributes.
 
 HP, Attack, Defense,SP.Atk, Speed
 
-* This features are used to describe the Pokemons physical abilities and special powers that a Pokemon has which varies on a Pokemon by Pokemon basis
+* This features are used to describe the Pokemons physical abilities and special powers that a Pokemon has which varies on a Pokemon by Pokemon basis.
+
 Generation
 
 * This feature categorises the Pokemon by cohort which is dependent on when the Pokemon were releases in the game and added to the database.
+
 Legendary
 
 * This is boolean feature that catgorises whether a Pokemon is rare of type this is due to their Type and specfic attributes that they retain. 
