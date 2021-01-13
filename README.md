@@ -5,7 +5,6 @@
   </tr>
  </table>
 
-Here I will store the Machine Learning models I have learnt to discover interesting insights from data
 ### ML Pokemon Project 
 The aim of the project was to bulid a Machine Learning Model that will predict whether a Pokemon is legendary or not using data from the game/show Pokemon. I will be using data of all the Pokemon that has been created within the game in order to train and test my model. One restriction was that there was a limit to the amount of data as there are only so many types of Pokemon.
 
