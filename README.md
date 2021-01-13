@@ -1,7 +1,7 @@
 # Machine Learning-Models
 <table>
   <tr>
-    <td valign="top"><img src="https://github.com/dwellin98/MachineLearning-Models/blob/master/Images/Pikachu.jpg" width=100% height=45%>
+    <td valign="top"><img src="https://github.com/dwellin98/MachineLearning-Models/blob/master/Images/Pikachu.jpg" width=50% height=45%>
   </tr>
  </table>
 
