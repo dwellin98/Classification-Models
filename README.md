@@ -20,15 +20,8 @@ As a fan of Pokemon I always found it difficult to know what Pokemon are truly t
 |  Type 1 |  The type of Pokemon, all Pokemon have a type 1 category. A way of classifiying a Pokemomn's physical attributes |  String |  
 | Type 2  | Pokemon who are of two types. Not all Pokemon are of two types | String |
 |HP, Attack, Defense, SP.Atk,Speed| Describes the Pokemons physical abilities and special powers that a Pokemon|Integer|
-
-
-#### Generation
-
-* This feature categorises the Pokemon by cohort which is dependent on when the Pokemon were releases in the game and added to the database.
-
-#### Legendary
-
-* This is boolean feature that catgorises whether a Pokemon is rare of type this is due to their Type and specfic attributes that they retain. 
+|Generation|This feature categorises the Pokemon by cohort which is dependent on when the Pokemon were releases in the game and added to the database.| Integer|
+|Legendary|This is boolean feature that catgorises whether a Pokemon is rare of type this is due to their Type and specfic attributes that they retai|Integer|
 
 ### Modeling and Evaluation
 
