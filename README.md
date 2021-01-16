@@ -53,6 +53,6 @@ How could this be applied to a business scenario
 ### ML Formula 1 Project
 <table>
   <tr>
-    <td valign="top"><img src="https://github.com/dwellin98/MachineLearning-Models/blob/master/Images/header-formula.jpg" width=90% height=40%>
+    <td valign="top"><img src="https://github.com/dwellin98/MachineLearning-Models/blob/master/Images/header-formula.jpg" width=90% height=45%>
   </tr>
  </table>
