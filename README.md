@@ -18,18 +18,8 @@ As a fan of Pokemon I always found it difficult to know what Pokemon are truly t
 |---|---|---|
 | Name  | The name of the Pokemon  | String  |   
 |  Type 1 |  The type of Pokemon, all Pokemon have a type 1 category. This feature helps describe the Pokemon's attributes |  String |  
-| Type 2  | The type 2 is for Pokemon who are of two types. Not all Pokemon are of two types however this provides a further understanding of the Pokemons attributes.  |  String |   
-#### Name
-
-* The name of the Pokemon. Data Type: String
-
-#### Type 1
-
-* The type of Pokemon, all Pokemon have a type 1 category. This feature helps describe the Pokemon's attributes.
-
-#### Type 2
-
-* The type 2 is for Pokemon who are of two types. Not all Pokemon are of two types however this provides a further understanding of the Pokemons attributes.
+| Type 2  | The type 2 is for Pokemon who are of two types. 
+Not all Pokemon are of two types however this provides a further understanding of the Pokemons attributes.  |  String |   
 
 #### HP, Attack, Defense,SP.Atk, Speed
 
