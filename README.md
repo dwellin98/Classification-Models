@@ -14,6 +14,11 @@ A second part of the Pokemon project was to create a recommendation engine based
 As a fan of Pokemon I always found it difficult to know what Pokemon are truly the strongest and what makes a Pokemon Legendary. The recommendation system is to create a new system that I have no seen before when using the game, futhermore my personal movtivation and nostalgia as my favourite type of Pokemon was Water and I wanted to see if the model will suggest a type of Pokemon type I like and would agree with.
 
 ### Data description
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 #### Name
 
 * The name of the Pokemon. Data Type: String
